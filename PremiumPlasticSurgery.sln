@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35431.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PremiumPlasticSurgery.Server", "PremiumPlasticSurgery.Server\PremiumPlasticSurgery.Server.csproj", "{3D50B555-EA9E-4C96-8018-8A18258E0659}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "premiumplasticsurgery.client", "premiumplasticsurgery.client\premiumplasticsurgery.client.esproj", "{52E31E15-8BEF-4DC7-971B-69628C49211E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D50B555-EA9E-4C96-8018-8A18258E0659}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D50B555-EA9E-4C96-8018-8A18258E0659}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D50B555-EA9E-4C96-8018-8A18258E0659}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D50B555-EA9E-4C96-8018-8A18258E0659}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52E31E15-8BEF-4DC7-971B-69628C49211E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52E31E15-8BEF-4DC7-971B-69628C49211E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52E31E15-8BEF-4DC7-971B-69628C49211E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{52E31E15-8BEF-4DC7-971B-69628C49211E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52E31E15-8BEF-4DC7-971B-69628C49211E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52E31E15-8BEF-4DC7-971B-69628C49211E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1C72670-DC7B-4017-B0B7-CDD3200EC74F}
+	EndGlobalSection
+EndGlobal
