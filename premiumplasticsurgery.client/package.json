@@ -25,7 +25,6 @@
     "@popperjs/core": "^2.11.8",
     "bootstrap": "^5.3.2",
     "jest-editor-support": "*",
-    "run-script-os": "*",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
     "typeface-muli": "^1.1.13",
@@ -43,6 +42,7 @@
     "karma-coverage": "~2.2.0",
     "karma-jasmine": "~5.1.0",
     "karma-jasmine-html-reporter": "~2.1.0",
+    "run-script-os": "^1.1.6",
     "typescript": "~5.3.2"
   }
 }
